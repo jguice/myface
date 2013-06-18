@@ -1,6 +1,6 @@
 name             'jguice-myface'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'jguice'
+maintainer_email 'jguice@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures jguice-myface'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
